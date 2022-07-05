@@ -26,7 +26,8 @@ Here are some ideas to get you started: -->
  ## ▎🛠 Tech Stacks
  
 ### Blockchain
-![Hyperledger](https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white)
+
+![solcoin](https://user-images.githubusercontent.com/82696921/177253188-8aa154c7-6f5b-45bb-8853-b2ead41d1741.png) solana
 
 ### Languages
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
