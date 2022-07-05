@@ -27,7 +27,9 @@ Here are some ideas to get you started: -->
  
 ### Blockchain
 
-![solcoin](https://user-images.githubusercontent.com/82696921/177253188-8aa154c7-6f5b-45bb-8853-b2ead41d1741.png) solana
+![solcoin](https://user-images.githubusercontent.com/82696921/177253188-8aa154c7-6f5b-45bb-8853-b2ead41d1741.png)
+![ethcoinbl](https://user-images.githubusercontent.com/82696921/177253229-c54ffad1-a0e1-41b0-b140-7ee3a50158a8.png)
+![btccoin](https://user-images.githubusercontent.com/82696921/177253239-ff16e2e9-afc2-4bfb-80fc-574d8cdece9b.png)
 
 ### Languages
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
