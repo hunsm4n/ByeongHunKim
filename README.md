@@ -9,11 +9,8 @@ Here are some ideas to get you started: -->
 
 # ▎ Blockchain Developer  
 
-- 🔭 I’m currently working on runnerM & starchain...
-- 🌱 I’m currently learning solana and ethereum ...
-<!-- - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ... -->
-- 💬 Ask me about ...
+
+
 - 📫 How to reach me: 
 - https://byeonghunkim.github.io/
 - https://next-js-portfolio-taupe.vercel.app/
