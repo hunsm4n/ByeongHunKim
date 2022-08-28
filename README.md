@@ -12,9 +12,9 @@ Here are some ideas to get you started: -->
 
 
 - 📫 How to reach me: 
-- https://byeonghunkim.github.io/
+- https://hunsman-solana.netlify.app
 - https://next-js-portfolio-taupe.vercel.app/
-- kumdohun4028@gmail.com...
+
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
