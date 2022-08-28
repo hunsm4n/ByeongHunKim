@@ -9,9 +9,8 @@ Here are some ideas to get you started: -->
 
 ⚡ [solana-Dapp](https://hunsman-solana.netlify.app)
 <br>
-📚 [Blog](https://hunsman.tistory.com/)
+😄 [Blog](https://hunsman.tistory.com/)
 <br>
-✉️ [Email](mailto:kumdohun4028@gmail.com) 
 
 
 <!-- - 😄 Pronouns: ...
