@@ -8,8 +8,8 @@
 Here are some ideas to get you started: -->
 
 ⚡ [solana-Dapp](https://hunsman-solana.netlify.app)
-📚 [Blog](https://hunsman.tistory.com/))  
-✉️ [Email](mailto:fbgkwns@gmail.com) 
+📚 [Blog](https://hunsman.tistory.com/)
+✉️ [Email](mailto:kumdohun4028@gmail.com) 
 
 
 <!-- - 😄 Pronouns: ...
