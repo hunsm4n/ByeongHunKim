@@ -19,6 +19,7 @@ Here are some ideas to get you started: -->
 - ⚡ Fun fact: ... -->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ByeongHunKim&theme=radical) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ByeongHunKim)](https://github.com/anuraghazra/github-readme-stats)
 
  ## ▎🛠 Tech Stacks
  
