@@ -11,7 +11,7 @@ Here are some ideas to get you started: -->
 <br>
 😄 [Blog](https://hunsman.tistory.com/)
 <br>
-
+<img width="333" alt="8luebottle" align="right" src="https://user-images.githubusercontent.com/48475824/87215634-674d5c80-c373-11ea-841f-23a8596db286.gif">
 
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
@@ -49,5 +49,9 @@ Here are some ideas to get you started: -->
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+
+
+
 
 
