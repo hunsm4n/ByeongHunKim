@@ -1,12 +1,3 @@
-<!-- ### Hi there 👋
-
-
-**ByeongHunKim/ByeongHunKim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-      
-* * *       
-
-Here are some ideas to get you started: -->
 
 <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png">
 
@@ -17,12 +8,8 @@ Here are some ideas to get you started: -->
 <br>
 😄 [Blog](https://hunsman.tistory.com/)
 <br>
+<!-- ![ByeongHun's Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=ByeongHunKim&layout=compact )![ByeongHun's GitHub stats](https://github-readme-stats.vercel.app/api?username=ByeongHunKim) -->
 <img width="333" alt="8luebottle" align="right" src="https://user-images.githubusercontent.com/48475824/87215634-674d5c80-c373-11ea-841f-23a8596db286.gif">
-
-<!-- - 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
-
-![ByeongHun's Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=ByeongHunKim&layout=compact)![ByeongHun's GitHub stats](https://github-readme-stats.vercel.app/api?username=ByeongHunKim)
 
  ## ▎🛠 Tech Stacks
  
